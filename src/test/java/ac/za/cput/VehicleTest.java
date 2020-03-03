@@ -11,7 +11,7 @@ public class VehicleTest {
     @Before
     public void setUp() throws Exception {
         vehicle = new Vehicle();
-        driver = new Driver("marco", "ross", 50, "b");
+        driver = new Driver("matthew", "pearce", 50, "b");
     }
 
     @Test
